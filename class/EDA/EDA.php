@@ -20,7 +20,6 @@
 
 <body>
 
-    <?php include($_SERVER['DOCUMENT_ROOT']."/include/navheader.php"); ?>
 
     <div class="container">
       <br>
@@ -53,97 +52,97 @@
                 </ul>
           </li>
 
-           <li> 5th week: Basic R-graphics 
+           <li> 5th week: Basic R-graphics
                 <ul>
                     <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_5/Rgraphics-1.html" target="_black">  Plot, points, line</a> </li>
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_5/Rgraphics-2.html" target="_black">  3D plotting</a> </li>                    
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_5/Rgraphics-2.html" target="_black">  3D plotting</a> </li>
                 </ul>
           </li>
 
-          <li> 6th week: Explanatory Data Analysis  
+          <li> 6th week: Explanatory Data Analysis
                 <ul>
                     <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/EDA.html" target="_black">  Statistics and Visualization </a> </li>
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/Color.html" target="_black">  R colors </a> </li>                    
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/Color.html" target="_black">  R colors </a> </li>
               </ul>
           </li>
 
           <li> 7th week: Handling Text data
                 <ul>
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_7/text_function.html" target="_black">  Text function  </a> </li>                       
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_7/Text data analytics.pdf" target="_black">  Text data analytics  </a> </li>                       
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_7/text_function.html" target="_black">  Text function  </a> </li>
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_7/Text data analytics.pdf" target="_black">  Text data analytics  </a> </li>
                 </ul>
           </li>
 
           <li> <span style="color:blue"> 8th week: Web Scraping </span>
                 <ul>
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_8/web_scraping.html" target="_black">   Web scraping   </a> </li>                       
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_8/web_scraping.html" target="_black">   Web scraping   </a> </li>
                 </ul>
           </li>
-          
+
                 <li> <span style="color:blue"> 9th week: Data preprocessing </span>
                 <ul>
-                <li> 
-                <a href="http://ranking.uos.ac.kr/material/EDA/week_9/Data_processing.html" target="_black">  
-                Data preprocessing   </a> 
-                </li>                       
+                <li>
+                <a href="http://ranking.uos.ac.kr/material/EDA/week_9/Data_processing.html" target="_black">
+                Data preprocessing   </a>
+                </li>
                 </ul>
                 <li> <span style="color:blue"> 10~11th week: ggplot2 </span>
                 <ul>
-                <li> <a href="http://ranking.uos.ac.kr/material/sk2018/network.html" target="_black"> 
+                <li> <a href="http://ranking.uos.ac.kr/material/sk2018/network.html" target="_black">
                 Network </a>
-                </li>                    
+                </li>
                 <li> <a href="http://ranking.uos.ac.kr/material/sk2018/ggplot.html" target="_black">
                 ggplot: part 1 </a>
-                </li>                    
+                </li>
                 <li> <a href="http://ranking.uos.ac.kr/material/sk2018/ggplot-exer.html" target="_black">
                 ggplot: part 2 </a>
-                </li>                    
+                </li>
                 </ul>
                 <li> <span style="color:blue"> 12th week: visualization on map </span>
                 <ul>
-                <li> <a href="http://ranking.uos.ac.kr/material/sk2018/map.html" target="_black"> 
+                <li> <a href="http://ranking.uos.ac.kr/material/sk2018/map.html" target="_black">
                 Maps on R </a>
-                </li>                    
+                </li>
                 <li> <a href="http://ranking.uos.ac.kr/material/sk2018/map-2.html" target="_black">
                 ggmap </a>
-                </li>                    
+                </li>
                 </ul>
-                
+
           </li>
-          
-          
+
+
           <li> R code
                     <ul>
                     <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_2/code_data_object_1.R" target="_black">  R-object I</a> </li>
                     <li> <a href="http://ranking.uos.ac.kr/material/bigdata/week_1/Rgraphics.R" target="_black">  R-graphics</a> </li>
                     <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/RStat.R" target="_black">  Statistics and Visualization </a> </li>
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/Color.R" target="_black">  R colors  </a> </li>                    
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_7/Text function.R" target="_black">  Text function  </a> </li>                    
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/Color.R" target="_black">  R colors  </a> </li>
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_7/Text function.R" target="_black">  Text function  </a> </li>
                                         <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_8/Web scraping.R" target="_black">  Web scraping  </a> </li>
-                                        <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_9/Data processing.R" target="_black">  Data preprocessing  </a> </li>                    
-            
-            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_10/Network diagram.R" target="_black">
-            Network diagram  </a> 
-            </li>                  
-            
-            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_10/ggplot2.R" target="_black">
-            ggplot2  </a> 
-            </li>                  
-            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_10/ggplot-exercise.R" target="_black">
-            ggplot-exercise  </a> 
-            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_11/map1.R" target="_black">
-            map on R  </a> 
-            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_11/map2.R" target="_black">
-            ggmap  </a> 
-            </li>                  
-            
+                                        <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_9/Data processing.R" target="_black">  Data preprocessing  </a> </li>
 
-                                        
-                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/hw2.R" target="_black">  k-NN model selection  </a> </li>                    
+            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_10/Network diagram.R" target="_black">
+            Network diagram  </a>
+            </li>
+
+            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_10/ggplot2.R" target="_black">
+            ggplot2  </a>
+            </li>
+            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_10/ggplot-exercise.R" target="_black">
+            ggplot-exercise  </a>
+            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_11/map1.R" target="_black">
+            map on R  </a>
+            <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_11/map2.R" target="_black">
+            ggmap  </a>
+            </li>
+
+
+
+                    <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_6/hw2.R" target="_black">  k-NN model selection  </a> </li>
                 </ul>
 
           </li>
-          <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_9/data.zip" target="_black">  Data file</a> 
+          <li> <a href="http://ranking.uos.ac.kr/material/EDA/week_9/data.zip" target="_black">  Data file</a>
           </li>
           <li> Homework
           	<ul>
@@ -154,8 +153,8 @@
           </li>
 
         </ul>
-        
-    
+
+
   </div>
 
     <hr>
